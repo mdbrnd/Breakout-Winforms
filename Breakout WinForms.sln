@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breakout WinForms", "Breakout WinForms\Breakout WinForms.csproj", "{06ADB2A0-56AF-4811-B6FE-B36551F91EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06ADB2A0-56AF-4811-B6FE-B36551F91EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ADB2A0-56AF-4811-B6FE-B36551F91EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ADB2A0-56AF-4811-B6FE-B36551F91EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ADB2A0-56AF-4811-B6FE-B36551F91EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D1BA5A-E4D8-4684-B669-D7B553AB114C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\bin\Debug\net6.0-windows\Breakout WinForms.exe
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\bin\Debug\net6.0-windows\Breakout WinForms.deps.json
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\bin\Debug\net6.0-windows\Breakout WinForms.runtimeconfig.json
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\bin\Debug\net6.0-windows\Breakout WinForms.dll
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\bin\Debug\net6.0-windows\Breakout WinForms.pdb
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.csproj.AssemblyReference.cache
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout_WinForms.Form1.resources
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.csproj.GenerateResource.cache
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.AssemblyInfoInputs.cache
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.AssemblyInfo.cs
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.csproj.CoreCompileInputs.cache
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.dll
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\ref\Breakout WinForms.dll
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.pdb
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\Breakout WinForms.genruntimeconfig.cache
+C:\Coding\VS22 Programs\Breakout WinForms\Breakout WinForms\obj\Debug\net6.0-windows\refint\Breakout WinForms.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06adb2a0-56af-4811-b6fe-b36551f91eef": {
+      "ProjectGuid": "06adb2a0-56af-4811-b6fe-b36551f91eef",
+      "DisplayName": "Breakout WinForms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
